@@ -1,5 +1,7 @@
 # FizzBuzz
 
+NOTE: This is a copy from boolean-uk, for the Copilot Exercise.
+
 ## Setup
 
 1. Fork this repository to your GitHub account
