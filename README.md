@@ -2,6 +2,24 @@
 
 Original fork: https://github.com/shyye/js-fizzbuzz-procedural
 
+Setup steps:  
+1. Create a new repo, e.g. `original-name-ai`.
+2. Clone the original repo and name it the same as the new repo.
+```
+git clone `<SSH TO REPO>` `<new repo name, e.g. original-name-ai>`
+```
+1. Open git bash terminal in the folder for the cloned repo.  
+   Remove remote origin:  
+```
+git remote remove origin
+```
+1. Add new origin / upstream to the newly created repo named some-original-name-ai:  
+```
+git remote add origin <SSH TO REPO>
+git branch -M main
+git push -u origin main
+```
+
 ## Setup
 
 1. Fork this repository to your GitHub account
