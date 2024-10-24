@@ -1,6 +1,7 @@
 # FizzBuzz - NOTE: This is a copy from boolean-uk, for the Copilot Exercise.
 
-Original fork: https://github.com/shyye/js-fizzbuzz-procedural
+Copilot Exercise: https://github.com/shyye/ai-day-1  
+Original fork for this repo: https://github.com/shyye/js-fizzbuzz-procedural
 
 ## Setup
 
